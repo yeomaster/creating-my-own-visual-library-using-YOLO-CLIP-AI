@@ -1,4 +1,12 @@
+
 **This project was made as an attempt to create my own visual library.**
+
+Video of results
+
+https://youtu.be/qNzc29Z3wko
+
+
+
 
 I had used tools such as **YOLO**, **CLIP** and **speech_recognition** in an attempt to not only make a visual library that worked in tandem to YOLO, but also activate it via voice command
 
@@ -69,7 +77,3 @@ Pokeball:
 
 ![img_006](https://github.com/user-attachments/assets/f8eb6bd5-7ac0-4d6f-8dc6-502489d0b663)
 ![img_019](https://github.com/user-attachments/assets/fd5687f7-e7f6-454f-89e2-506e344f176d)
-
-And here is the result:
-
-https://youtu.be/qNzc29Z3wko
