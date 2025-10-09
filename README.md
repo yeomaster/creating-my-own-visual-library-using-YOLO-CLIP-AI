@@ -48,14 +48,17 @@ NOTE: I had created this code via **Visual Studio COde** as such you need to run
 The following is some of the pictures I used in my visual library that I added manually because YOLO did not recognise them:
 
 Chair:
+
 ![img_000](https://github.com/user-attachments/assets/f2d44a42-3275-4b0f-af5f-f8a09be61dec)
 ![img_001](https://github.com/user-attachments/assets/aed04ea6-e026-4def-bbdd-35f34fe4d778)
 
-Book
+Book:
+
 ![img_004](https://github.com/user-attachments/assets/e2a2d5cc-ca72-40f0-adcf-abf147a79b53)
 ![img_015](https://github.com/user-attachments/assets/6298299c-67fb-46e3-bd06-58515635c111)
 
 Pokeball:
+
 ![img_006](https://github.com/user-attachments/assets/f8eb6bd5-7ac0-4d6f-8dc6-502489d0b663)
 ![img_019](https://github.com/user-attachments/assets/fd5687f7-e7f6-454f-89e2-506e344f176d)
 
