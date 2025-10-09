@@ -1,5 +1,3 @@
-![img_019](https://github.com/user-attachments/assets/992da4d0-cd54-4e13-b596-66efd251da49)![img_006](https://github.com/user-attachments/assets/404eb67d-2ba1-4714-b325-ded0cd95ddb7)# creating-my-own-visual-library-using-YOLO-CLIP-AI
-
 **This project was made as an attempt to create my own visual library.**
 
 I had used tools such as **YOLO**, **CLIP** and **speech_recognition** in an attempt to not only make a visual library that worked in tandem to YOLO, but also activate it via voice command
