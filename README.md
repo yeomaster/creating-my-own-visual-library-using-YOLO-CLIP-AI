@@ -72,5 +72,4 @@ Pokeball:
 
 And here is the result:
 
-
-Note: I will not be uploading any videos or pictures of my face for obvious reasons
+https://youtu.be/qNzc29Z3wko
