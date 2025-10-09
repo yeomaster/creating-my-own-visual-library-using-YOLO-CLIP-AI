@@ -44,3 +44,7 @@ NOTE: I had created this code via **Visual Studio COde** as such you need to run
 4. python visual_library_app.py index
 5. python visual_library_app.py recognize --face-thresh 0.35 --item-thresh 0.7
 
+
+The following is some of the pictures I used in my visual library:
+
+![img_000](https://github.com/user-attachments/assets/f2d44a42-3275-4b0f-af5f-f8a09be61dec)
